@@ -21,6 +21,9 @@ Python 3.7.8
 ```
 > pipenv update
 ```
+
+![](nameko-pipenv.gif)
+
 ..
 
 ## Local Development with Docker
