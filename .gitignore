@@ -1,0 +1,6 @@
+./idea
+/venv
+__common__.json
+__pycache__
+.coverage
+reports/

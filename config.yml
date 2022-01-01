@@ -1,0 +1,3 @@
+DB_URIS:
+    "books_service:Base": postgresql://postgres:password@localhost:5433/books_DB
+AMQP_URI: amqp://guest:guest@localhost
